@@ -1,0 +1,1227 @@
+[13-Oct-2018 07:20:26 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:20:26 UTC] DATA: domain=&regex=ive.ist&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:20:26 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:20:26 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:20:26 UTC] DATA: domain=ive.ist&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:20:26 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:20:31 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:20:31 UTC] DATA: domain=&regex=bekranmuhendislik.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:20:31 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:20:31 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:20:31 UTC] DATA: domain=bekranmuhendislik.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:20:31 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:20:33 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:20:33 UTC] DATA: domain=&regex=bekranmuhendislik.com.tr&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:20:33 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:20:33 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:20:33 UTC] DATA: domain=bekranmuhendislik.com.tr&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:20:33 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:20:36 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:20:36 UTC] DATA: domain=&regex=merkadenetim.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:20:36 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:20:36 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:20:36 UTC] DATA: domain=merkadenetim.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:20:36 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:20:39 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:20:39 UTC] DATA: domain=&regex=derimarka.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:20:39 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:20:39 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:20:39 UTC] DATA: domain=derimarka.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:20:39 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:20:40 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:20:40 UTC] DATA: domain=&regex=istebulazim.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:20:40 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:20:40 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:20:40 UTC] DATA: domain=istebulazim.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:20:40 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:20:48 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:20:48 UTC] DATA: domain=&regex=boratac.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:20:48 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:20:48 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:20:48 UTC] DATA: domain=boratac.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:20:48 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:20:52 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:20:52 UTC] DATA: domain=&regex=iletisimve.istanbul&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:20:52 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:20:52 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:20:52 UTC] DATA: domain=iletisimve.istanbul&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:20:52 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:20:58 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:20:58 UTC] DATA: domain=&regex=ikizlertugla.com.tr&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:20:58 UTC] Authentication Header: Authorization: Basic aWtpemxlcnQ6eDdrMDJFa1ozbw==
+
+
+[13-Oct-2018 07:20:58 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:20:58 UTC] DATA: domain=ikizlertugla.com.tr&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:20:58 UTC] Authentication Header: Authorization: Basic aWtpemxlcnQ6eDdrMDJFa1ozbw==
+
+
+[13-Oct-2018 07:22:04 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:22:04 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:22:04 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:22:04 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:22:04 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:22:04 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:22:49 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:22:49 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:22:49 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:22:49 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:22:49 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:22:49 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:23:11 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:23:11 UTC] DATA: email=webmaster&password=iboerbAA84%21&domain=renklirotalar.com&quota=0&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=addpop&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:23:11 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:23:17 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:23:17 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:23:17 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:23:17 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:23:17 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:23:17 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:25:10 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:25:10 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:25:10 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:25:10 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:25:10 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:25:10 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:25:30 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:25:30 UTC] DATA: email=webmaster%40renklirotalar.com&password=iboerbAA84%21&domain=renklirotalar.com&quota=0&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=addpop&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:25:30 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:25:58 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:25:58 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:25:58 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:25:58 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:25:58 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:25:58 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:27:54 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:27:54 UTC] DATA: email=webmaster&password=iboerbAA84%21&domain=renklirotalar.com&quota=0&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=addpop&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:27:54 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:32:45 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:32:45 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:32:45 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:32:45 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:32:45 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:32:45 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:33:02 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:33:02 UTC] DATA: email=webmaster%40renklirotalar.com&password=iboerbAA84%21&domain=renklirotalar.com&quota=0&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=addpop&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:33:02 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:38:57 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:38:57 UTC] DATA: email=ab&password=abc&domain=renklirotalar.com&quota=0&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=addpop&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:38:57 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:39:08 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:39:08 UTC] DATA: email=erd&password=erd&domain=renklirotalar.com&quota=0&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=addpop&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:39:08 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 07:56:53 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 07:56:53 UTC] DATA: email=asfaf&password=asfa&domain=renklirotalar.com&quota=0&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=addpop&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 07:56:53 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 08:00:36 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 08:00:36 UTC] DATA: email=asafasf&password=asfafas&domain=renklirotalar.com&quota=0&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=addpop&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 08:00:36 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 08:45:46 UTC] URL: https://pro01.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 08:45:46 UTC] DATA: email=webmaster&password=iboerbAA84%21&domain=renklirotalar.com&quota=0&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=addpop&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 08:45:46 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 08:48:03 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 08:48:03 UTC] DATA: email=webmaster&password=iboerbAA84%21&domain=renklirotalar.com&quota=0&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=addpop&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 08:48:03 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 08:48:03 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"func":"addpop","module":"Email","apiversion":2,"data":[{"reason":"","result":1}]}}
+
+[13-Oct-2018 08:48:14 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 08:48:14 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 08:48:14 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 08:48:14 UTC] RESPONSE:
+ {"cpanelresult":{"data":[{"email":"ebruaykut@renklirotalar.com","suspended_login":0,"suspended_incoming":0,"login":"ebruaykut@renklirotalar.com"},{"email":"webmaster@renklirotalar.com","login":"webmaster@renklirotalar.com","suspended_incoming":0,"suspended_login":0}],"module":"Email","func":"listpops","apiversion":2,"event":{"result":1}}}
+
+[13-Oct-2018 08:48:14 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 08:48:14 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 08:48:14 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 08:48:14 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","func":"listforwards","event":{"result":1},"apiversion":2,"data":[]}}
+
+[13-Oct-2018 09:02:59 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:02:59 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:02:59 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 09:03:00 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"module":"Email","func":"listpops","data":[{"email":"ebruaykut@renklirotalar.com","login":"ebruaykut@renklirotalar.com","suspended_incoming":0,"suspended_login":0},{"suspended_login":0,"email":"webmaster@renklirotalar.com","login":"webmaster@renklirotalar.com","suspended_incoming":0}],"apiversion":2}}
+
+[13-Oct-2018 09:03:00 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:03:00 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:03:00 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 09:03:00 UTC] RESPONSE:
+ {"cpanelresult":{"data":[],"apiversion":2,"module":"Email","event":{"result":1},"func":"listforwards"}}
+
+[13-Oct-2018 09:17:07 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:17:07 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:17:07 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 09:17:07 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","data":[{"suspended_login":0,"login":"ebruaykut@renklirotalar.com","suspended_incoming":0,"email":"ebruaykut@renklirotalar.com"},{"suspended_incoming":0,"email":"webmaster@renklirotalar.com","suspended_login":0,"login":"webmaster@renklirotalar.com"}],"event":{"result":1},"module":"Email","apiversion":2}}
+
+[13-Oct-2018 09:17:07 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:17:07 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:17:07 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 09:17:07 UTC] RESPONSE:
+ {"cpanelresult":{"data":[],"event":{"result":1},"func":"listforwards","apiversion":2,"module":"Email"}}
+
+[13-Oct-2018 09:17:09 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:17:09 UTC] DATA: domain=&regex=iletisimve.istanbul&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:17:09 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 09:17:09 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"event":{"result":1},"func":"listpops","module":"Email","data":[{"email":"ibrahim@iletisimve.istanbul","suspended_login":0,"suspended_incoming":0,"login":"ibrahim@iletisimve.istanbul"},{"email":"info@iletisimve.istanbul","suspended_login":0,"suspended_incoming":0,"login":"info@iletisimve.istanbul"},{"suspended_login":0,"email":"support@iletisimve.istanbul","login":"support@iletisimve.istanbul","suspended_incoming":0}]}}
+
+[13-Oct-2018 09:17:09 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:17:09 UTC] DATA: domain=iletisimve.istanbul&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:17:09 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 09:17:09 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listforwards","data":[{"forward":"info@iletisimve.istanbul","uri_forward":"info%40iletisimve.istanbul","dest":"bilgi@iletisimve.istanbul","html_dest":"bilgi@iletisimve.istanbul","html_forward":"info@iletisimve.istanbul","uri_dest":"bilgi%40iletisimve.istanbul"},{"forward":"support@iletisimve.istanbul","uri_forward":"support%40iletisimve.istanbul","dest":"bilgi@iletisimve.istanbul","html_dest":"bilgi@iletisimve.istanbul","html_forward":"support@iletisimve.istanbul","uri_dest":"bilgi%40iletisimve.istanbul"}],"event":{"result":1},"apiversion":2,"module":"Email"}}
+
+[13-Oct-2018 09:17:39 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:17:39 UTC] DATA: domain=&regex=ikizlertugla.com.tr&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:17:39 UTC] Authentication Header: Authorization: Basic aWtpemxlcnQ6eDdrMDJFa1ozbw==
+
+
+[13-Oct-2018 09:17:39 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"apiversion":2,"func":"listpops","module":"Email","data":[{"email":"bilgi@ikizlertugla.com.tr","login":"bilgi@ikizlertugla.com.tr","suspended_incoming":0,"suspended_login":0},{"login":"cavit@ikizlertugla.com.tr","suspended_login":0,"suspended_incoming":0,"email":"cavit@ikizlertugla.com.tr"},{"email":"ikizler@ikizlertugla.com.tr","suspended_incoming":0,"suspended_login":0,"login":"ikizler@ikizlertugla.com.tr"},{"login":"info@ikizlertugla.com.tr","suspended_incoming":0,"suspended_login":0,"email":"info@ikizlertugla.com.tr"},{"email":"kadir@ikizlertugla.com.tr","suspended_incoming":0,"suspended_login":0,"login":"kadir@ikizlertugla.com.tr"},{"suspended_login":0,"suspended_incoming":0,"login":"tumer@ikizlertugla.com.tr","email":"tumer@ikizlertugla.com.tr"}]}}
+
+[13-Oct-2018 09:17:39 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:17:39 UTC] DATA: domain=ikizlertugla.com.tr&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:17:39 UTC] Authentication Header: Authorization: Basic aWtpemxlcnQ6eDdrMDJFa1ozbw==
+
+
+[13-Oct-2018 09:17:39 UTC] RESPONSE:
+ {"cpanelresult":{"data":[],"func":"listforwards","module":"Email","apiversion":2,"event":{"result":1}}}
+
+[13-Oct-2018 09:17:53 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:17:53 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:17:53 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 09:17:53 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"data":[{"suspended_incoming":0,"suspended_login":0,"login":"ebruaykut@renklirotalar.com","email":"ebruaykut@renklirotalar.com"},{"login":"webmaster@renklirotalar.com","email":"webmaster@renklirotalar.com","suspended_incoming":0,"suspended_login":0}],"event":{"result":1},"module":"Email","func":"listpops"}}
+
+[13-Oct-2018 09:17:53 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:17:53 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:17:53 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 09:17:54 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"apiversion":2,"data":[],"module":"Email","func":"listforwards"}}
+
+[13-Oct-2018 09:17:56 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:17:56 UTC] DATA: domain=&regex=iletisimve.istanbul&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:17:56 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 09:17:56 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"module":"Email","apiversion":2,"func":"listpops","data":[{"suspended_login":0,"suspended_incoming":0,"email":"ibrahim@iletisimve.istanbul","login":"ibrahim@iletisimve.istanbul"},{"login":"info@iletisimve.istanbul","email":"info@iletisimve.istanbul","suspended_incoming":0,"suspended_login":0},{"suspended_login":0,"suspended_incoming":0,"email":"support@iletisimve.istanbul","login":"support@iletisimve.istanbul"}]}}
+
+[13-Oct-2018 09:17:57 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:17:57 UTC] DATA: domain=iletisimve.istanbul&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:17:57 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 09:17:57 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"data":[{"uri_dest":"bilgi%40iletisimve.istanbul","forward":"info@iletisimve.istanbul","html_forward":"info@iletisimve.istanbul","dest":"bilgi@iletisimve.istanbul","uri_forward":"info%40iletisimve.istanbul","html_dest":"bilgi@iletisimve.istanbul"},{"html_dest":"bilgi@iletisimve.istanbul","uri_forward":"support%40iletisimve.istanbul","dest":"bilgi@iletisimve.istanbul","forward":"support@iletisimve.istanbul","uri_dest":"bilgi%40iletisimve.istanbul","html_forward":"support@iletisimve.istanbul"}],"event":{"result":1},"func":"listforwards","module":"Email"}}
+
+[13-Oct-2018 09:56:27 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:56:27 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:56:27 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 09:56:28 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","data":[{"suspended_incoming":0,"email":"ebruaykut@renklirotalar.com","suspended_login":0,"login":"ebruaykut@renklirotalar.com"},{"email":"webmaster@renklirotalar.com","suspended_incoming":0,"suspended_login":0,"login":"webmaster@renklirotalar.com"}],"apiversion":2,"module":"Email","event":{"result":1}}}
+
+[13-Oct-2018 09:56:28 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:56:28 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:56:28 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 09:56:28 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"module":"Email","apiversion":2,"func":"listforwards","data":[]}}
+
+[13-Oct-2018 09:56:50 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:56:50 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:56:50 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 09:56:50 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"func":"listpops","module":"Email","apiversion":2,"data":[{"email":"ebruaykut@renklirotalar.com","login":"ebruaykut@renklirotalar.com","suspended_incoming":0,"suspended_login":0},{"email":"webmaster@renklirotalar.com","suspended_incoming":0,"login":"webmaster@renklirotalar.com","suspended_login":0}]}}
+
+[13-Oct-2018 09:56:50 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:56:50 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:56:50 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 09:56:50 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"data":[],"func":"listforwards","module":"Email","apiversion":2}}
+
+[13-Oct-2018 09:57:01 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:57:01 UTC] DATA: email=webmaster&domain=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=delpop&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:57:01 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 09:57:01 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"func":"delpop","module":"Email","data":[{"rawout":"Removed any entries belonging to “webmaster@renklirotalar.com” from the “stonesiv” Horde database.\n","reason":"OK","result":1}],"event":{"result":1}}}
+
+[13-Oct-2018 09:57:04 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:57:04 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:57:04 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 09:57:04 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","apiversion":2,"func":"listpops","event":{"result":1},"data":[{"suspended_incoming":0,"suspended_login":0,"email":"ebruaykut@renklirotalar.com","login":"ebruaykut@renklirotalar.com"}]}}
+
+[13-Oct-2018 09:57:04 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 09:57:04 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 09:57:04 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 09:57:05 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"data":[],"module":"Email","func":"listforwards","event":{"result":1}}}
+
+[13-Oct-2018 10:00:21 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:00:21 UTC] DATA: domain=&regex=ikizlertugla.com.tr&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:00:21 UTC] Authentication Header: Authorization: Basic aWtpemxlcnQ6eDdrMDJFa1ozbw==
+
+
+[13-Oct-2018 10:00:21 UTC] RESPONSE:
+ {"cpanelresult":{"data":[{"email":"bilgi@ikizlertugla.com.tr","login":"bilgi@ikizlertugla.com.tr","suspended_login":0,"suspended_incoming":0},{"login":"cavit@ikizlertugla.com.tr","email":"cavit@ikizlertugla.com.tr","suspended_login":0,"suspended_incoming":0},{"suspended_login":0,"login":"ikizler@ikizlertugla.com.tr","email":"ikizler@ikizlertugla.com.tr","suspended_incoming":0},{"suspended_login":0,"email":"info@ikizlertugla.com.tr","login":"info@ikizlertugla.com.tr","suspended_incoming":0},{"login":"kadir@ikizlertugla.com.tr","email":"kadir@ikizlertugla.com.tr","suspended_login":0,"suspended_incoming":0},{"suspended_incoming":0,"login":"tumer@ikizlertugla.com.tr","email":"tumer@ikizlertugla.com.tr","suspended_login":0}],"apiversion":2,"event":{"result":1},"func":"listpops","module":"Email"}}
+
+[13-Oct-2018 10:00:21 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:00:21 UTC] DATA: domain=ikizlertugla.com.tr&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:00:21 UTC] Authentication Header: Authorization: Basic aWtpemxlcnQ6eDdrMDJFa1ozbw==
+
+
+[13-Oct-2018 10:00:21 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"event":{"result":1},"module":"Email","func":"listforwards","data":[]}}
+
+[13-Oct-2018 10:24:01 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:24:01 UTC] DATA: domain=&regex=afiyethane.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:24:01 UTC] Authentication Header: Authorization: Basic YWZpeWV0aGE6N21vcEswdjhMMg==
+
+
+[13-Oct-2018 10:24:01 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"event":{"result":1},"data":[{"suspended_login":0,"login":"admin@afiyethane.com","suspended_incoming":0,"email":"admin@afiyethane.com"},{"email":"info@afiyethane.com","suspended_login":0,"login":"info@afiyethane.com","suspended_incoming":0},{"email":"kurtulus.turan@afiyethane.com","suspended_login":0,"login":"kurtulus.turan@afiyethane.com","suspended_incoming":0},{"suspended_incoming":0,"login":"omer@afiyethane.com","suspended_login":0,"email":"omer@afiyethane.com"},{"email":"ozlem.onay@afiyethane.com","login":"ozlem.onay@afiyethane.com","suspended_login":0,"suspended_incoming":0},{"suspended_login":0,"login":"siparis@afiyethane.com","suspended_incoming":0,"email":"siparis@afiyethane.com"},{"email":"tufan.turan@afiyethane.com","login":"tufan.turan@afiyethane.com","suspended_login":0,"suspended_incoming":0}],"func":"listpops","module":"Email"}}
+
+[13-Oct-2018 10:24:01 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:24:01 UTC] DATA: domain=afiyethane.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:24:01 UTC] Authentication Header: Authorization: Basic YWZpeWV0aGE6N21vcEswdjhMMg==
+
+
+[13-Oct-2018 10:24:02 UTC] RESPONSE:
+ {"cpanelresult":{"data":[],"apiversion":2,"func":"listforwards","event":{"result":1},"module":"Email"}}
+
+[13-Oct-2018 10:25:05 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:25:05 UTC] DATA: domain=&regex=merkadenetim.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:25:05 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:25:05 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","func":"listpops","apiversion":2,"event":{"result":1},"data":[]}}
+
+[13-Oct-2018 10:25:05 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:25:05 UTC] DATA: domain=merkadenetim.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:25:05 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:25:05 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","func":"listforwards","data":[],"apiversion":2,"event":{"result":1}}}
+
+[13-Oct-2018 10:25:09 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:25:09 UTC] DATA: domain=&regex=merkadenetim.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:25:09 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:25:09 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"func":"listpops","module":"Email","data":[],"event":{"result":1}}}
+
+[13-Oct-2018 10:25:09 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:25:09 UTC] DATA: domain=merkadenetim.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:25:09 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:25:09 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","data":[],"event":{"result":1},"func":"listforwards","apiversion":2}}
+
+[13-Oct-2018 10:25:13 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:25:13 UTC] DATA: domain=&regex=merkadenetim.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:25:13 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:25:13 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","func":"listpops","apiversion":2,"event":{"result":1},"data":[]}}
+
+[13-Oct-2018 10:25:13 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:25:13 UTC] DATA: domain=merkadenetim.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:25:13 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:25:13 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"data":[],"module":"Email","apiversion":2,"func":"listforwards"}}
+
+[13-Oct-2018 10:25:14 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:25:14 UTC] DATA: domain=&regex=merkadenetim.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:25:14 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:25:14 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","event":{"result":1},"apiversion":2,"data":[],"module":"Email"}}
+
+[13-Oct-2018 10:25:14 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:25:14 UTC] DATA: domain=merkadenetim.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:25:14 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:25:14 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","data":[],"func":"listforwards","apiversion":2,"event":{"result":1}}}
+
+[13-Oct-2018 10:25:16 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:25:16 UTC] DATA: domain=&regex=istebulazim.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:25:16 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:25:16 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"module":"Email","data":[],"func":"listpops","event":{"result":1}}}
+
+[13-Oct-2018 10:25:16 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:25:16 UTC] DATA: domain=istebulazim.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:25:16 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:25:16 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","apiversion":2,"func":"listforwards","event":{"result":1},"data":[]}}
+
+[13-Oct-2018 10:25:17 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:25:17 UTC] DATA: domain=&regex=merkadenetim.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:25:17 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:25:18 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"apiversion":2,"data":[],"func":"listpops","module":"Email"}}
+
+[13-Oct-2018 10:25:18 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:25:18 UTC] DATA: domain=merkadenetim.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:25:18 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:25:18 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"module":"Email","apiversion":2,"func":"listforwards","data":[]}}
+
+[13-Oct-2018 10:25:20 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:25:20 UTC] DATA: domain=&regex=merkadenetim.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:25:20 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:25:20 UTC] RESPONSE:
+ {"cpanelresult":{"data":[],"event":{"result":1},"func":"listpops","module":"Email","apiversion":2}}
+
+[13-Oct-2018 10:25:20 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:25:20 UTC] DATA: domain=merkadenetim.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:25:20 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:25:21 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listforwards","data":[],"apiversion":2,"event":{"result":1},"module":"Email"}}
+
+[13-Oct-2018 10:25:52 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:25:52 UTC] DATA: domain=&regex=merkadenetim.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:25:52 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:25:52 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","func":"listpops","event":{"result":1},"data":[],"apiversion":2}}
+
+[13-Oct-2018 10:25:52 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:25:52 UTC] DATA: domain=merkadenetim.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:25:52 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:25:53 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"module":"Email","data":[],"event":{"result":1},"func":"listforwards"}}
+
+[13-Oct-2018 10:25:54 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:25:54 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:25:54 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:25:54 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"func":"listpops","data":[{"login":"ebruaykut@renklirotalar.com","suspended_incoming":0,"suspended_login":0,"email":"ebruaykut@renklirotalar.com"}],"module":"Email","event":{"result":1}}}
+
+[13-Oct-2018 10:25:54 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:25:54 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:25:54 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:25:54 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listforwards","data":[],"apiversion":2,"event":{"result":1},"module":"Email"}}
+
+[13-Oct-2018 10:26:00 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:26:00 UTC] DATA: domain=&regex=merkadenetim.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:26:00 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:26:00 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"data":[],"event":{"result":1},"module":"Email","func":"listpops"}}
+
+[13-Oct-2018 10:26:01 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:26:01 UTC] DATA: domain=merkadenetim.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:26:01 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:26:01 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"func":"listforwards","data":[],"module":"Email","apiversion":2}}
+
+[13-Oct-2018 10:34:14 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:34:14 UTC] DATA: domain=&regex=arisutdirikoc.av.tr&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:34:14 UTC] Authentication Header: Authorization: Basic YXJpc3V0ZGk6c0tuNEg1bnkyNw==
+
+
+[13-Oct-2018 10:34:14 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","event":{"result":1},"apiversion":2,"module":"Email","data":[{"suspended_login":0,"login":"damla@arisutdirikoc.av.tr","suspended_incoming":0,"email":"damla@arisutdirikoc.av.tr"},{"suspended_login":0,"suspended_incoming":0,"email":"degerkaybi@arisutdirikoc.av.tr","login":"degerkaybi@arisutdirikoc.av.tr"},{"suspended_login":0,"suspended_incoming":0,"email":"deneme@arisutdirikoc.av.tr","login":"deneme@arisutdirikoc.av.tr"},{"suspended_login":0,"login":"dokuzisik@arisutdirikoc.av.tr","email":"dokuzisik@arisutdirikoc.av.tr","suspended_incoming":0},{"suspended_login":0,"email":"ibrahim@arisutdirikoc.av.tr","suspended_incoming":0,"login":"ibrahim@arisutdirikoc.av.tr"},{"suspended_login":0,"suspended_incoming":0,"email":"icra@arisutdirikoc.av.tr","login":"icra@arisutdirikoc.av.tr"},{"suspended_login":0,"login":"info@arisutdirikoc.av.tr","suspended_incoming":0,"email":"info@arisutdirikoc.av.tr"},{"suspended_login":0,"email":"keskin@arisutdirikoc.av.tr","suspended_incoming":0,"login":"keskin@arisutdirikoc.av.tr"},{"suspended_incoming":0,"email":"merve@arisutdirikoc.av.tr","login":"merve@arisutdirikoc.av.tr","suspended_login":0},{"suspended_login":0,"login":"merve.onat@arisutdirikoc.av.tr","suspended_incoming":0,"email":"merve.onat@arisutdirikoc.av.tr"},{"login":"muhasebe@arisutdirikoc.av.tr","email":"muhasebe@arisutdirikoc.av.tr","suspended_incoming":0,"suspended_login":0},{"email":"nazli.aydin@arisutdirikoc.av.tr","suspended_incoming":0,"login":"nazli.aydin@arisutdirikoc.av.tr","suspended_login":0},{"suspended_login":0,"suspended_incoming":0,"email":"ozkan@arisutdirikoc.av.tr","login":"ozkan@arisutdirikoc.av.tr"},{"suspended_login":0,"login":"remzi@arisutdirikoc.av.tr","suspended_incoming":0,"email":"remzi@arisutdirikoc.av.tr"},{"suspended_login":0,"login":"saim.antli@arisutdirikoc.av.tr","suspended_incoming":0,"email":"saim.antli@arisutdirikoc.av.tr"},{"email":"seyma@arisutdirikoc.av.tr","suspended_incoming":0,"login":"seyma@arisutdirikoc.av.tr","suspended_login":0},{"login":"sibel@arisutdirikoc.av.tr","suspended_incoming":0,"email":"sibel@arisutdirikoc.av.tr","suspended_login":0},{"suspended_login":0,"login":"sinem@arisutdirikoc.av.tr","email":"sinem@arisutdirikoc.av.tr","suspended_incoming":0},{"email":"tahkim@arisutdirikoc.av.tr","suspended_incoming":0,"login":"tahkim@arisutdirikoc.av.tr","suspended_login":0},{"email":"tahkimcevap@arisutdirikoc.av.tr","suspended_incoming":0,"login":"tahkimcevap@arisutdirikoc.av.tr","suspended_login":0},{"suspended_incoming":0,"email":"taner.sahiner@arisutdirikoc.av.tr","login":"taner.sahiner@arisutdirikoc.av.tr","suspended_login":0},{"suspended_login":0,"suspended_incoming":0,"email":"test@arisutdirikoc.av.tr","login":"test@arisutdirikoc.av.tr"},{"suspended_login":0,"suspended_incoming":0,"email":"tuketici@arisutdirikoc.av.tr","login":"tuketici@arisutdirikoc.av.tr"},{"suspended_login":0,"suspended_incoming":0,"email":"umran@arisutdirikoc.av.tr","login":"umran@arisutdirikoc.av.tr"},{"suspended_login":0,"login":"yasemin.erdem@arisutdirikoc.av.tr","email":"yasemin.erdem@arisutdirikoc.av.tr","suspended_incoming":0}]}}
+
+[13-Oct-2018 10:34:14 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:34:14 UTC] DATA: domain=arisutdirikoc.av.tr&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:34:14 UTC] Authentication Header: Authorization: Basic YXJpc3V0ZGk6c0tuNEg1bnkyNw==
+
+
+[13-Oct-2018 10:34:14 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","event":{"result":1},"func":"listforwards","apiversion":2,"data":[]}}
+
+[13-Oct-2018 10:34:24 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:34:24 UTC] DATA: domain=&regex=bekranmuhendislik.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:34:24 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:34:24 UTC] RESPONSE:
+ {"cpanelresult":{"data":[],"func":"listpops","apiversion":2,"module":"Email","event":{"result":1}}}
+
+[13-Oct-2018 10:34:25 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:34:25 UTC] DATA: domain=bekranmuhendislik.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:34:25 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:34:25 UTC] RESPONSE:
+ {"cpanelresult":{"data":[],"event":{"result":1},"module":"Email","apiversion":2,"func":"listforwards"}}
+
+[13-Oct-2018 10:34:25 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:34:25 UTC] DATA: domain=&regex=bekranmuhendislik.com.tr&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:34:25 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:34:26 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","apiversion":2,"event":{"result":1},"func":"listpops","data":[]}}
+
+[13-Oct-2018 10:34:26 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:34:26 UTC] DATA: domain=bekranmuhendislik.com.tr&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:34:26 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:34:26 UTC] RESPONSE:
+ {"cpanelresult":{"data":[],"event":{"result":1},"apiversion":2,"func":"listforwards","module":"Email"}}
+
+[13-Oct-2018 10:49:05 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:05 UTC] DATA: domain=&regex=bekranmuhendislik.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:05 UTC] Authentication Header: Authorization: Basic YmVrcmFubXU6NzNrZDBTbjRvRQ==
+
+
+[13-Oct-2018 10:49:05 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","apiversion":2,"event":{"result":1},"module":"Email","data":[{"suspended_login":0,"suspended_incoming":0,"email":"ceylaninan@bekranmuhendislik.com.tr","login":"ceylaninan@bekranmuhendislik.com.tr"},{"login":"onurdinc@bekranmuhendislik.com.tr","email":"onurdinc@bekranmuhendislik.com.tr","suspended_incoming":0,"suspended_login":0},{"email":"umutsever@bekranmuhendislik.com.tr","login":"umutsever@bekranmuhendislik.com.tr","suspended_login":0,"suspended_incoming":0}]}}
+
+[13-Oct-2018 10:49:05 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:05 UTC] DATA: domain=bekranmuhendislik.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:05 UTC] Authentication Header: Authorization: Basic YmVrcmFubXU6NzNrZDBTbjRvRQ==
+
+
+[13-Oct-2018 10:49:05 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"func":"listforwards","apiversion":2,"module":"Email","data":[]}}
+
+[13-Oct-2018 10:49:09 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:09 UTC] DATA: domain=&regex=merkadenetim.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:09 UTC] Authentication Header: Authorization: Basic bWVya2FkZW5ldGltOkw4eVUxejFlcjU=
+
+
+[13-Oct-2018 10:49:09 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","apiversion":2,"data":[{"login":"emrebicer@merkadenetim.com","suspended_incoming":0,"email":"emrebicer@merkadenetim.com","suspended_login":0},{"login":"info@merkadenetim.com","suspended_incoming":0,"email":"info@merkadenetim.com","suspended_login":0},{"email":"m.ozdurak@merkadenetim.com","suspended_login":0,"suspended_incoming":0,"login":"m.ozdurak@merkadenetim.com"},{"suspended_incoming":0,"login":"n.kandemir@merkadenetim.com","email":"n.kandemir@merkadenetim.com","suspended_login":0}],"event":{"result":1},"module":"Email"}}
+
+[13-Oct-2018 10:49:10 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:10 UTC] DATA: domain=merkadenetim.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:10 UTC] Authentication Header: Authorization: Basic bWVya2FkZW5ldGltOkw4eVUxejFlcjU=
+
+
+[13-Oct-2018 10:49:10 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"data":[],"apiversion":2,"module":"Email","func":"listforwards"}}
+
+[13-Oct-2018 10:49:13 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:13 UTC] DATA: domain=&regex=derimarka.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:13 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:49:14 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","event":{"result":1},"apiversion":2,"module":"Email","data":[]}}
+
+[13-Oct-2018 10:49:14 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:14 UTC] DATA: domain=derimarka.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:14 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:49:14 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","func":"listforwards","apiversion":2,"data":[],"event":{"result":1}}}
+
+[13-Oct-2018 10:49:15 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:15 UTC] DATA: domain=&regex=istebulazim.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:15 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:49:15 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"module":"Email","func":"listpops","data":[],"apiversion":2}}
+
+[13-Oct-2018 10:49:15 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:15 UTC] DATA: domain=istebulazim.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:15 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:49:15 UTC] RESPONSE:
+ {"cpanelresult":{"data":[],"event":{"result":1},"apiversion":2,"func":"listforwards","module":"Email"}}
+
+[13-Oct-2018 10:49:17 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:17 UTC] DATA: domain=&regex=derimarka.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:17 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:49:17 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"event":{"result":1},"data":[],"module":"Email","func":"listpops"}}
+
+[13-Oct-2018 10:49:17 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:17 UTC] DATA: domain=derimarka.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:17 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:49:17 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","apiversion":2,"event":{"result":1},"func":"listforwards","data":[]}}
+
+[13-Oct-2018 10:49:22 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:22 UTC] DATA: domain=&regex=derimarka.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:22 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:49:22 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"module":"Email","event":{"result":1},"data":[],"func":"listpops"}}
+
+[13-Oct-2018 10:49:22 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:22 UTC] DATA: domain=derimarka.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:22 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:49:22 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","event":{"result":1},"func":"listforwards","data":[],"apiversion":2}}
+
+[13-Oct-2018 10:49:23 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:23 UTC] DATA: domain=&regex=istebulazim.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:23 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:49:23 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","event":{"result":1},"module":"Email","apiversion":2,"data":[]}}
+
+[13-Oct-2018 10:49:23 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:23 UTC] DATA: domain=istebulazim.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:23 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:49:23 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listforwards","apiversion":2,"module":"Email","data":[],"event":{"result":1}}}
+
+[13-Oct-2018 10:49:35 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:35 UTC] DATA: domain=&regex=merkadenetim.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:35 UTC] Authentication Header: Authorization: Basic bWVya2FkZW5ldGltOkw4eVUxejFlcjU=
+
+
+[13-Oct-2018 10:49:35 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"data":[{"email":"emrebicer@merkadenetim.com","suspended_login":0,"suspended_incoming":0,"login":"emrebicer@merkadenetim.com"},{"login":"info@merkadenetim.com","suspended_incoming":0,"suspended_login":0,"email":"info@merkadenetim.com"},{"suspended_login":0,"email":"m.ozdurak@merkadenetim.com","login":"m.ozdurak@merkadenetim.com","suspended_incoming":0},{"suspended_incoming":0,"login":"n.kandemir@merkadenetim.com","email":"n.kandemir@merkadenetim.com","suspended_login":0}],"module":"Email","apiversion":2,"func":"listpops"}}
+
+[13-Oct-2018 10:49:35 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:35 UTC] DATA: domain=merkadenetim.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:35 UTC] Authentication Header: Authorization: Basic bWVya2FkZW5ldGltOkw4eVUxejFlcjU=
+
+
+[13-Oct-2018 10:49:35 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listforwards","event":{"result":1},"module":"Email","apiversion":2,"data":[]}}
+
+[13-Oct-2018 10:49:51 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:51 UTC] DATA: domain=&regex=arisutdirikoc.av.tr&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:51 UTC] Authentication Header: Authorization: Basic YXJpc3V0ZGk6c0tuNEg1bnkyNw==
+
+
+[13-Oct-2018 10:49:51 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"module":"Email","data":[{"login":"damla@arisutdirikoc.av.tr","suspended_login":0,"suspended_incoming":0,"email":"damla@arisutdirikoc.av.tr"},{"suspended_login":0,"login":"degerkaybi@arisutdirikoc.av.tr","suspended_incoming":0,"email":"degerkaybi@arisutdirikoc.av.tr"},{"suspended_login":0,"login":"deneme@arisutdirikoc.av.tr","suspended_incoming":0,"email":"deneme@arisutdirikoc.av.tr"},{"suspended_incoming":0,"email":"dokuzisik@arisutdirikoc.av.tr","suspended_login":0,"login":"dokuzisik@arisutdirikoc.av.tr"},{"suspended_incoming":0,"email":"ibrahim@arisutdirikoc.av.tr","suspended_login":0,"login":"ibrahim@arisutdirikoc.av.tr"},{"suspended_login":0,"login":"icra@arisutdirikoc.av.tr","suspended_incoming":0,"email":"icra@arisutdirikoc.av.tr"},{"suspended_login":0,"login":"info@arisutdirikoc.av.tr","suspended_incoming":0,"email":"info@arisutdirikoc.av.tr"},{"suspended_incoming":0,"email":"keskin@arisutdirikoc.av.tr","login":"keskin@arisutdirikoc.av.tr","suspended_login":0},{"suspended_incoming":0,"email":"merve@arisutdirikoc.av.tr","suspended_login":0,"login":"merve@arisutdirikoc.av.tr"},{"suspended_incoming":0,"email":"merve.onat@arisutdirikoc.av.tr","suspended_login":0,"login":"merve.onat@arisutdirikoc.av.tr"},{"suspended_incoming":0,"email":"muhasebe@arisutdirikoc.av.tr","suspended_login":0,"login":"muhasebe@arisutdirikoc.av.tr"},{"suspended_incoming":0,"email":"nazli.aydin@arisutdirikoc.av.tr","suspended_login":0,"login":"nazli.aydin@arisutdirikoc.av.tr"},{"email":"ozkan@arisutdirikoc.av.tr","suspended_incoming":0,"login":"ozkan@arisutdirikoc.av.tr","suspended_login":0},{"suspended_incoming":0,"email":"remzi@arisutdirikoc.av.tr","login":"remzi@arisutdirikoc.av.tr","suspended_login":0},{"email":"saim.antli@arisutdirikoc.av.tr","suspended_incoming":0,"login":"saim.antli@arisutdirikoc.av.tr","suspended_login":0},{"suspended_incoming":0,"email":"seyma@arisutdirikoc.av.tr","login":"seyma@arisutdirikoc.av.tr","suspended_login":0},{"email":"sibel@arisutdirikoc.av.tr","suspended_incoming":0,"suspended_login":0,"login":"sibel@arisutdirikoc.av.tr"},{"suspended_login":0,"login":"sinem@arisutdirikoc.av.tr","suspended_incoming":0,"email":"sinem@arisutdirikoc.av.tr"},{"email":"tahkim@arisutdirikoc.av.tr","suspended_incoming":0,"login":"tahkim@arisutdirikoc.av.tr","suspended_login":0},{"email":"tahkimcevap@arisutdirikoc.av.tr","suspended_incoming":0,"login":"tahkimcevap@arisutdirikoc.av.tr","suspended_login":0},{"login":"taner.sahiner@arisutdirikoc.av.tr","suspended_login":0,"suspended_incoming":0,"email":"taner.sahiner@arisutdirikoc.av.tr"},{"suspended_login":0,"login":"test@arisutdirikoc.av.tr","suspended_incoming":0,"email":"test@arisutdirikoc.av.tr"},{"email":"tuketici@arisutdirikoc.av.tr","suspended_incoming":0,"suspended_login":0,"login":"tuketici@arisutdirikoc.av.tr"},{"suspended_incoming":0,"email":"umran@arisutdirikoc.av.tr","suspended_login":0,"login":"umran@arisutdirikoc.av.tr"},{"suspended_incoming":0,"email":"yasemin.erdem@arisutdirikoc.av.tr","login":"yasemin.erdem@arisutdirikoc.av.tr","suspended_login":0}],"event":{"result":1},"func":"listpops"}}
+
+[13-Oct-2018 10:49:51 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:51 UTC] DATA: domain=arisutdirikoc.av.tr&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:51 UTC] Authentication Header: Authorization: Basic YXJpc3V0ZGk6c0tuNEg1bnkyNw==
+
+
+[13-Oct-2018 10:49:51 UTC] RESPONSE:
+ {"cpanelresult":{"data":[],"apiversion":2,"func":"listforwards","event":{"result":1},"module":"Email"}}
+
+[13-Oct-2018 10:49:58 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:58 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:58 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:49:59 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","module":"Email","event":{"result":1},"apiversion":2,"data":[{"email":"ebruaykut@renklirotalar.com","suspended_login":0,"suspended_incoming":0,"login":"ebruaykut@renklirotalar.com"}]}}
+
+[13-Oct-2018 10:49:59 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 10:49:59 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 10:49:59 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 10:49:59 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"data":[],"func":"listforwards","event":{"result":1},"module":"Email"}}
+
+[13-Oct-2018 11:32:14 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 11:32:14 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 11:32:14 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 11:32:14 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","event":{"result":1},"apiversion":2,"data":[{"suspended_login":0,"email":"ebruaykut@renklirotalar.com","suspended_incoming":0,"login":"ebruaykut@renklirotalar.com"}],"module":"Email"}}
+
+[13-Oct-2018 11:32:14 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 11:32:14 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 11:32:14 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 11:32:14 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listforwards","event":{"result":1},"module":"Email","data":[],"apiversion":2}}
+
+[13-Oct-2018 11:37:04 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 11:37:04 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 11:37:04 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 11:37:04 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","event":{"result":1},"data":[{"email":"ebruaykut@renklirotalar.com","login":"ebruaykut@renklirotalar.com","suspended_login":0,"suspended_incoming":0}],"module":"Email","apiversion":2}}
+
+[13-Oct-2018 11:37:04 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 11:37:04 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 11:37:04 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 11:37:04 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","func":"listforwards","apiversion":2,"data":[],"event":{"result":1}}}
+
+[13-Oct-2018 11:37:10 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 11:37:10 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 11:37:10 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 11:37:11 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"module":"Email","data":[{"login":"ebruaykut@renklirotalar.com","suspended_login":0,"suspended_incoming":0,"email":"ebruaykut@renklirotalar.com"}],"event":{"result":1},"func":"listpops"}}
+
+[13-Oct-2018 11:37:11 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 11:37:11 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 11:37:11 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 11:37:11 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"module":"Email","event":{"result":1},"func":"listforwards","data":[]}}
+
+[13-Oct-2018 11:37:25 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 11:37:25 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 11:37:25 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 11:37:25 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","module":"Email","data":[{"email":"ebruaykut@renklirotalar.com","suspended_incoming":0,"suspended_login":0,"login":"ebruaykut@renklirotalar.com"}],"apiversion":2,"event":{"result":1}}}
+
+[13-Oct-2018 11:37:25 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[13-Oct-2018 11:37:25 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[13-Oct-2018 11:37:25 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[13-Oct-2018 11:37:26 UTC] RESPONSE:
+ {"cpanelresult":{"data":[],"module":"Email","event":{"result":1},"func":"listforwards","apiversion":2}}
+
+[16-Oct-2018 11:43:06 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 11:43:06 UTC] DATA: domain=&regex=bekranmuhendislik.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 11:43:06 UTC] Authentication Header: Authorization: Basic YmVrcmFubXU6NzNrZDBTbjRvRQ==
+
+
+[16-Oct-2018 11:43:07 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"apiversion":2,"func":"listpops","data":[{"login":"ceylaninan@bekranmuhendislik.com.tr","suspended_login":0,"email":"ceylaninan@bekranmuhendislik.com.tr","suspended_incoming":0},{"login":"onurdinc@bekranmuhendislik.com.tr","suspended_login":0,"email":"onurdinc@bekranmuhendislik.com.tr","suspended_incoming":0},{"suspended_login":0,"email":"umutsever@bekranmuhendislik.com.tr","suspended_incoming":0,"login":"umutsever@bekranmuhendislik.com.tr"}],"module":"Email"}}
+
+[16-Oct-2018 11:43:07 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 11:43:07 UTC] DATA: domain=bekranmuhendislik.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 11:43:07 UTC] Authentication Header: Authorization: Basic YmVrcmFubXU6NzNrZDBTbjRvRQ==
+
+
+[16-Oct-2018 11:43:07 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"module":"Email","data":[],"apiversion":2,"func":"listforwards"}}
+
+[16-Oct-2018 11:43:21 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 11:43:21 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 11:43:21 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 11:43:22 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"module":"Email","func":"listpops","apiversion":2,"data":[{"login":"ebruaykut@renklirotalar.com","suspended_incoming":0,"email":"ebruaykut@renklirotalar.com","suspended_login":0}]}}
+
+[16-Oct-2018 11:43:22 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 11:43:22 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 11:43:22 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 11:43:22 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"data":[],"event":{"result":1},"func":"listforwards","module":"Email"}}
+
+[16-Oct-2018 11:54:29 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 11:54:29 UTC] DATA: domain=&regex=iletisimve.istanbul&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 11:54:29 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 11:54:29 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","module":"Email","data":[{"suspended_incoming":0,"email":"ibrahim@iletisimve.istanbul","suspended_login":0,"login":"ibrahim@iletisimve.istanbul"},{"email":"info@iletisimve.istanbul","login":"info@iletisimve.istanbul","suspended_login":0,"suspended_incoming":0},{"suspended_incoming":0,"login":"support@iletisimve.istanbul","suspended_login":0,"email":"support@iletisimve.istanbul"}],"event":{"result":1},"apiversion":2}}
+
+[16-Oct-2018 11:54:29 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 11:54:29 UTC] DATA: domain=iletisimve.istanbul&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 11:54:29 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 11:54:30 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"apiversion":2,"func":"listforwards","module":"Email","data":[{"dest":"bilgi@iletisimve.istanbul","uri_forward":"info%40iletisimve.istanbul","forward":"info@iletisimve.istanbul","html_forward":"info@iletisimve.istanbul","html_dest":"bilgi@iletisimve.istanbul","uri_dest":"bilgi%40iletisimve.istanbul"},{"dest":"bilgi@iletisimve.istanbul","forward":"support@iletisimve.istanbul","uri_forward":"support%40iletisimve.istanbul","uri_dest":"bilgi%40iletisimve.istanbul","html_dest":"bilgi@iletisimve.istanbul","html_forward":"support@iletisimve.istanbul"}]}}
+
+[16-Oct-2018 12:06:26 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:06:26 UTC] DATA: domain=&regex=iletisimve.istanbul&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:06:26 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 12:06:26 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"func":"listpops","event":{"result":1},"module":"Email","data":[{"login":"ibrahim@iletisimve.istanbul","suspended_login":0,"suspended_incoming":0,"email":"ibrahim@iletisimve.istanbul"},{"login":"info@iletisimve.istanbul","suspended_login":0,"suspended_incoming":0,"email":"info@iletisimve.istanbul"},{"email":"support@iletisimve.istanbul","login":"support@iletisimve.istanbul","suspended_login":0,"suspended_incoming":0}]}}
+
+[16-Oct-2018 12:06:26 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:06:26 UTC] DATA: domain=iletisimve.istanbul&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:06:26 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 12:06:27 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","data":[{"html_dest":"bilgi@iletisimve.istanbul","uri_dest":"bilgi%40iletisimve.istanbul","dest":"bilgi@iletisimve.istanbul","html_forward":"info@iletisimve.istanbul","forward":"info@iletisimve.istanbul","uri_forward":"info%40iletisimve.istanbul"},{"html_forward":"support@iletisimve.istanbul","forward":"support@iletisimve.istanbul","uri_forward":"support%40iletisimve.istanbul","html_dest":"bilgi@iletisimve.istanbul","uri_dest":"bilgi%40iletisimve.istanbul","dest":"bilgi@iletisimve.istanbul"}],"func":"listforwards","event":{"result":1},"apiversion":2}}
+
+[16-Oct-2018 12:06:28 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:06:28 UTC] DATA: domain=iletisimve.istanbul&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:06:28 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 12:06:29 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listforwards","data":[{"forward":"info@iletisimve.istanbul","uri_forward":"info%40iletisimve.istanbul","uri_dest":"bilgi%40iletisimve.istanbul","html_dest":"bilgi@iletisimve.istanbul","html_forward":"info@iletisimve.istanbul","dest":"bilgi@iletisimve.istanbul"},{"html_forward":"support@iletisimve.istanbul","html_dest":"bilgi@iletisimve.istanbul","dest":"bilgi@iletisimve.istanbul","uri_forward":"support%40iletisimve.istanbul","uri_dest":"bilgi%40iletisimve.istanbul","forward":"support@iletisimve.istanbul"}],"apiversion":2,"module":"Email","event":{"result":1}}}
+
+[16-Oct-2018 12:16:30 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:16:30 UTC] DATA: domain=&regex=iletisimve.istanbul&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:16:30 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 12:16:30 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"apiversion":2,"func":"listpops","module":"Email","data":[{"email":"ibrahim@iletisimve.istanbul","suspended_login":0,"login":"ibrahim@iletisimve.istanbul","suspended_incoming":0},{"suspended_incoming":0,"login":"info@iletisimve.istanbul","suspended_login":0,"email":"info@iletisimve.istanbul"},{"suspended_login":0,"email":"support@iletisimve.istanbul","suspended_incoming":0,"login":"support@iletisimve.istanbul"}]}}
+
+[16-Oct-2018 12:16:31 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:16:31 UTC] DATA: domain=iletisimve.istanbul&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:16:31 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 12:16:31 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","func":"listforwards","event":{"result":1},"apiversion":2,"data":[{"dest":"bilgi@iletisimve.istanbul","uri_forward":"info%40iletisimve.istanbul","html_forward":"info@iletisimve.istanbul","uri_dest":"bilgi%40iletisimve.istanbul","forward":"info@iletisimve.istanbul","html_dest":"bilgi@iletisimve.istanbul"},{"uri_forward":"support%40iletisimve.istanbul","dest":"bilgi@iletisimve.istanbul","html_forward":"support@iletisimve.istanbul","forward":"support@iletisimve.istanbul","uri_dest":"bilgi%40iletisimve.istanbul","html_dest":"bilgi@iletisimve.istanbul"}]}}
+
+[16-Oct-2018 12:28:38 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:28:38 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:28:38 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 12:28:38 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"data":[{"email":"ebruaykut@renklirotalar.com","suspended_incoming":0,"suspended_login":0,"login":"ebruaykut@renklirotalar.com"}],"func":"listpops","module":"Email","event":{"result":1}}}
+
+[16-Oct-2018 12:28:38 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:28:38 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:28:38 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 12:28:39 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","event":{"result":1},"data":[],"apiversion":2,"func":"listforwards"}}
+
+[16-Oct-2018 12:30:43 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:30:43 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:30:43 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 12:30:44 UTC] RESPONSE:
+ {"cpanelresult":{"data":[{"suspended_login":0,"suspended_incoming":0,"email":"ebruaykut@renklirotalar.com","login":"ebruaykut@renklirotalar.com"}],"event":{"result":1},"func":"listpops","apiversion":2,"module":"Email"}}
+
+[16-Oct-2018 12:30:44 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:30:44 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:30:44 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 12:30:44 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"data":[],"apiversion":2,"func":"listforwards","module":"Email"}}
+
+[16-Oct-2018 12:30:49 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:30:49 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:30:49 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 12:30:49 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"func":"listpops","module":"Email","data":[{"suspended_incoming":0,"login":"ebruaykut@renklirotalar.com","suspended_login":0,"email":"ebruaykut@renklirotalar.com"}],"event":{"result":1}}}
+
+[16-Oct-2018 12:30:49 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:30:49 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:30:49 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 12:30:49 UTC] RESPONSE:
+ {"cpanelresult":{"data":[],"apiversion":2,"module":"Email","event":{"result":1},"func":"listforwards"}}
+
+[16-Oct-2018 12:31:01 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:31:01 UTC] DATA: domain=&regex=afiyethane.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:31:01 UTC] Authentication Header: Authorization: Basic YWZpeWV0aGE6N21vcEswdjhMMg==
+
+
+[16-Oct-2018 12:31:01 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","func":"listpops","apiversion":2,"event":{"result":1},"data":[{"suspended_incoming":0,"email":"admin@afiyethane.com","login":"admin@afiyethane.com","suspended_login":0},{"suspended_login":0,"login":"info@afiyethane.com","suspended_incoming":0,"email":"info@afiyethane.com"},{"login":"kurtulus.turan@afiyethane.com","suspended_login":0,"email":"kurtulus.turan@afiyethane.com","suspended_incoming":0},{"login":"omer@afiyethane.com","suspended_login":0,"email":"omer@afiyethane.com","suspended_incoming":0},{"suspended_incoming":0,"email":"ozlem.onay@afiyethane.com","suspended_login":0,"login":"ozlem.onay@afiyethane.com"},{"suspended_login":0,"login":"siparis@afiyethane.com","email":"siparis@afiyethane.com","suspended_incoming":0},{"email":"tufan.turan@afiyethane.com","suspended_incoming":0,"suspended_login":0,"login":"tufan.turan@afiyethane.com"}]}}
+
+[16-Oct-2018 12:31:01 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:31:01 UTC] DATA: domain=afiyethane.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:31:01 UTC] Authentication Header: Authorization: Basic YWZpeWV0aGE6N21vcEswdjhMMg==
+
+
+[16-Oct-2018 12:31:01 UTC] RESPONSE:
+ {"cpanelresult":{"data":[],"event":{"result":1},"module":"Email","func":"listforwards","apiversion":2}}
+
+[16-Oct-2018 12:47:25 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:47:25 UTC] DATA: domain=&regex=iletisimve.istanbul&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:47:25 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 12:47:26 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","event":{"result":1},"module":"Email","data":[{"suspended_incoming":0,"login":"ibrahim@iletisimve.istanbul","suspended_login":0,"email":"ibrahim@iletisimve.istanbul"},{"email":"info@iletisimve.istanbul","suspended_login":0,"login":"info@iletisimve.istanbul","suspended_incoming":0},{"suspended_login":0,"login":"support@iletisimve.istanbul","email":"support@iletisimve.istanbul","suspended_incoming":0}],"apiversion":2}}
+
+[16-Oct-2018 12:47:26 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:47:26 UTC] DATA: domain=iletisimve.istanbul&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:47:26 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 12:47:26 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"module":"Email","event":{"result":1},"data":[{"uri_dest":"bilgi%40iletisimve.istanbul","forward":"info@iletisimve.istanbul","html_forward":"info@iletisimve.istanbul","dest":"bilgi@iletisimve.istanbul","html_dest":"bilgi@iletisimve.istanbul","uri_forward":"info%40iletisimve.istanbul"},{"dest":"bilgi@iletisimve.istanbul","uri_forward":"support%40iletisimve.istanbul","html_dest":"bilgi@iletisimve.istanbul","uri_dest":"bilgi%40iletisimve.istanbul","forward":"support@iletisimve.istanbul","html_forward":"support@iletisimve.istanbul"}],"func":"listforwards"}}
+
+[16-Oct-2018 12:47:34 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:47:34 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:47:34 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 12:47:34 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"module":"Email","data":[{"login":"ebruaykut@renklirotalar.com","email":"ebruaykut@renklirotalar.com","suspended_incoming":0,"suspended_login":0}],"event":{"result":1},"func":"listpops"}}
+
+[16-Oct-2018 12:47:34 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:47:34 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:47:34 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[16-Oct-2018 12:47:34 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"func":"listforwards","event":{"result":1},"data":[],"module":"Email"}}
+
+[16-Oct-2018 12:59:29 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:59:29 UTC] DATA: domain=&regex=arisutdirikoc.av.tr&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:59:29 UTC] Authentication Header: Authorization: Basic YXJpc3V0ZGk6c0tuNEg1bnkyNw==
+
+
+[16-Oct-2018 12:59:29 UTC] RESPONSE:
+ {"cpanelresult":{"data":[{"email":"damla@arisutdirikoc.av.tr","login":"damla@arisutdirikoc.av.tr","suspended_login":0,"suspended_incoming":0},{"suspended_login":0,"login":"degerkaybi@arisutdirikoc.av.tr","email":"degerkaybi@arisutdirikoc.av.tr","suspended_incoming":0},{"suspended_incoming":0,"email":"deneme@arisutdirikoc.av.tr","login":"deneme@arisutdirikoc.av.tr","suspended_login":0},{"suspended_incoming":0,"email":"dokuzisik@arisutdirikoc.av.tr","login":"dokuzisik@arisutdirikoc.av.tr","suspended_login":0},{"suspended_incoming":0,"suspended_login":0,"login":"ibrahim@arisutdirikoc.av.tr","email":"ibrahim@arisutdirikoc.av.tr"},{"suspended_incoming":0,"login":"icra@arisutdirikoc.av.tr","email":"icra@arisutdirikoc.av.tr","suspended_login":0},{"suspended_login":0,"login":"info@arisutdirikoc.av.tr","email":"info@arisutdirikoc.av.tr","suspended_incoming":0},{"suspended_login":0,"login":"keskin@arisutdirikoc.av.tr","email":"keskin@arisutdirikoc.av.tr","suspended_incoming":0},{"suspended_incoming":0,"login":"merve@arisutdirikoc.av.tr","email":"merve@arisutdirikoc.av.tr","suspended_login":0},{"suspended_incoming":0,"suspended_login":0,"email":"merve.onat@arisutdirikoc.av.tr","login":"merve.onat@arisutdirikoc.av.tr"},{"suspended_incoming":0,"suspended_login":0,"login":"muhasebe@arisutdirikoc.av.tr","email":"muhasebe@arisutdirikoc.av.tr"},{"suspended_incoming":0,"login":"nazli.aydin@arisutdirikoc.av.tr","email":"nazli.aydin@arisutdirikoc.av.tr","suspended_login":0},{"login":"ozkan@arisutdirikoc.av.tr","email":"ozkan@arisutdirikoc.av.tr","suspended_login":0,"suspended_incoming":0},{"suspended_incoming":0,"email":"remzi@arisutdirikoc.av.tr","login":"remzi@arisutdirikoc.av.tr","suspended_login":0},{"suspended_incoming":0,"suspended_login":0,"email":"saim.antli@arisutdirikoc.av.tr","login":"saim.antli@arisutdirikoc.av.tr"},{"suspended_incoming":0,"email":"seyma@arisutdirikoc.av.tr","login":"seyma@arisutdirikoc.av.tr","suspended_login":0},{"suspended_incoming":0,"email":"sibel@arisutdirikoc.av.tr","login":"sibel@arisutdirikoc.av.tr","suspended_login":0},{"suspended_incoming":0,"login":"sinem@arisutdirikoc.av.tr","email":"sinem@arisutdirikoc.av.tr","suspended_login":0},{"suspended_login":0,"login":"tahkim@arisutdirikoc.av.tr","email":"tahkim@arisutdirikoc.av.tr","suspended_incoming":0},{"suspended_incoming":0,"suspended_login":0,"email":"tahkimcevap@arisutdirikoc.av.tr","login":"tahkimcevap@arisutdirikoc.av.tr"},{"suspended_login":0,"login":"taner.sahiner@arisutdirikoc.av.tr","email":"taner.sahiner@arisutdirikoc.av.tr","suspended_incoming":0},{"suspended_incoming":0,"login":"test@arisutdirikoc.av.tr","email":"test@arisutdirikoc.av.tr","suspended_login":0},{"suspended_login":0,"email":"tuketici@arisutdirikoc.av.tr","login":"tuketici@arisutdirikoc.av.tr","suspended_incoming":0},{"suspended_incoming":0,"login":"umran@arisutdirikoc.av.tr","email":"umran@arisutdirikoc.av.tr","suspended_login":0},{"suspended_login":0,"login":"yasemin.erdem@arisutdirikoc.av.tr","email":"yasemin.erdem@arisutdirikoc.av.tr","suspended_incoming":0}],"apiversion":2,"func":"listpops","module":"Email","event":{"result":1}}}
+
+[16-Oct-2018 12:59:29 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:59:29 UTC] DATA: domain=arisutdirikoc.av.tr&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:59:29 UTC] Authentication Header: Authorization: Basic YXJpc3V0ZGk6c0tuNEg1bnkyNw==
+
+
+[16-Oct-2018 12:59:29 UTC] RESPONSE:
+ {"cpanelresult":{"data":[],"event":{"result":1},"apiversion":2,"func":"listforwards","module":"Email"}}
+
+[16-Oct-2018 12:59:46 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:59:46 UTC] DATA: domain=&regex=ikizlertugla.com.tr&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:59:46 UTC] Authentication Header: Authorization: Basic aWtpemxlcnQ6eDdrMDJFa1ozbw==
+
+
+[16-Oct-2018 12:59:46 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","apiversion":2,"data":[{"suspended_login":0,"login":"bilgi@ikizlertugla.com.tr","suspended_incoming":0,"email":"bilgi@ikizlertugla.com.tr"},{"suspended_login":0,"email":"cavit@ikizlertugla.com.tr","login":"cavit@ikizlertugla.com.tr","suspended_incoming":0},{"email":"ikizler@ikizlertugla.com.tr","login":"ikizler@ikizlertugla.com.tr","suspended_incoming":0,"suspended_login":0},{"email":"info@ikizlertugla.com.tr","suspended_incoming":0,"login":"info@ikizlertugla.com.tr","suspended_login":0},{"email":"kadir@ikizlertugla.com.tr","login":"kadir@ikizlertugla.com.tr","suspended_incoming":0,"suspended_login":0},{"login":"tumer@ikizlertugla.com.tr","suspended_incoming":0,"email":"tumer@ikizlertugla.com.tr","suspended_login":0}],"module":"Email","event":{"result":1}}}
+
+[16-Oct-2018 12:59:46 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[16-Oct-2018 12:59:46 UTC] DATA: domain=ikizlertugla.com.tr&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[16-Oct-2018 12:59:46 UTC] Authentication Header: Authorization: Basic aWtpemxlcnQ6eDdrMDJFa1ozbw==
+
+
+[16-Oct-2018 12:59:47 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listforwards","data":[],"module":"Email","apiversion":2,"event":{"result":1}}}
+
+[17-Oct-2018 06:22:20 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[17-Oct-2018 06:22:20 UTC] DATA: domain=&regex=iletisimve.istanbul&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[17-Oct-2018 06:22:20 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[17-Oct-2018 06:22:20 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","func":"listpops","data":[{"suspended_login":0,"email":"ibrahim@iletisimve.istanbul","suspended_incoming":0,"login":"ibrahim@iletisimve.istanbul"},{"email":"info@iletisimve.istanbul","suspended_incoming":0,"suspended_login":0,"login":"info@iletisimve.istanbul"},{"login":"support@iletisimve.istanbul","email":"support@iletisimve.istanbul","suspended_incoming":0,"suspended_login":0}],"event":{"result":1},"apiversion":2}}
+
+[17-Oct-2018 06:22:21 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[17-Oct-2018 06:22:21 UTC] DATA: domain=iletisimve.istanbul&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[17-Oct-2018 06:22:21 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[17-Oct-2018 06:22:21 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listforwards","apiversion":2,"module":"Email","data":[{"html_dest":"bilgi@iletisimve.istanbul","html_forward":"info@iletisimve.istanbul","uri_dest":"bilgi%40iletisimve.istanbul","forward":"info@iletisimve.istanbul","uri_forward":"info%40iletisimve.istanbul","dest":"bilgi@iletisimve.istanbul"},{"forward":"support@iletisimve.istanbul","dest":"bilgi@iletisimve.istanbul","uri_forward":"support%40iletisimve.istanbul","html_dest":"bilgi@iletisimve.istanbul","html_forward":"support@iletisimve.istanbul","uri_dest":"bilgi%40iletisimve.istanbul"}],"event":{"result":1}}}
+
+[17-Oct-2018 06:22:24 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[17-Oct-2018 06:22:24 UTC] DATA: domain=&regex=stonesive.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[17-Oct-2018 06:22:24 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[17-Oct-2018 06:22:24 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","apiversion":2,"data":[{"suspended_login":0,"suspended_incoming":0,"email":"ibrahim@stonesive.com","login":"ibrahim@stonesive.com"},{"login":"info@stonesive.com","email":"info@stonesive.com","suspended_incoming":0,"suspended_login":0}],"event":{"result":1},"module":"Email"}}
+
+[17-Oct-2018 06:22:24 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[17-Oct-2018 06:22:24 UTC] DATA: domain=stonesive.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[17-Oct-2018 06:22:24 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[17-Oct-2018 06:22:24 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"event":{"result":1},"data":[],"func":"listforwards","module":"Email"}}
+
+[17-Oct-2018 06:22:26 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[17-Oct-2018 06:22:26 UTC] DATA: domain=&regex=ikizlertugla.com.tr&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[17-Oct-2018 06:22:26 UTC] Authentication Header: Authorization: Basic aWtpemxlcnQ6eDdrMDJFa1ozbw==
+
+
+[17-Oct-2018 06:22:26 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","data":[{"email":"bilgi@ikizlertugla.com.tr","suspended_login":0,"login":"bilgi@ikizlertugla.com.tr","suspended_incoming":0},{"suspended_incoming":0,"suspended_login":0,"login":"cavit@ikizlertugla.com.tr","email":"cavit@ikizlertugla.com.tr"},{"login":"ikizler@ikizlertugla.com.tr","suspended_login":0,"suspended_incoming":0,"email":"ikizler@ikizlertugla.com.tr"},{"email":"info@ikizlertugla.com.tr","suspended_incoming":0,"suspended_login":0,"login":"info@ikizlertugla.com.tr"},{"email":"kadir@ikizlertugla.com.tr","suspended_incoming":0,"suspended_login":0,"login":"kadir@ikizlertugla.com.tr"},{"email":"tumer@ikizlertugla.com.tr","login":"tumer@ikizlertugla.com.tr","suspended_login":0,"suspended_incoming":0}],"apiversion":2,"event":{"result":1},"module":"Email"}}
+
+[17-Oct-2018 06:22:26 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[17-Oct-2018 06:22:26 UTC] DATA: domain=ikizlertugla.com.tr&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[17-Oct-2018 06:22:26 UTC] Authentication Header: Authorization: Basic aWtpemxlcnQ6eDdrMDJFa1ozbw==
+
+
+[17-Oct-2018 06:22:26 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","event":{"result":1},"func":"listforwards","apiversion":2,"data":[]}}
+
+[17-Oct-2018 06:22:30 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[17-Oct-2018 06:22:30 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[17-Oct-2018 06:22:30 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[17-Oct-2018 06:22:31 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","data":[{"suspended_login":0,"login":"ebruaykut@renklirotalar.com","suspended_incoming":0,"email":"ebruaykut@renklirotalar.com"}],"module":"Email","apiversion":2,"event":{"result":1}}}
+
+[17-Oct-2018 06:22:31 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[17-Oct-2018 06:22:31 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[17-Oct-2018 06:22:31 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[17-Oct-2018 06:22:31 UTC] RESPONSE:
+ {"cpanelresult":{"data":[],"event":{"result":1},"func":"listforwards","apiversion":2,"module":"Email"}}
+
+[17-Oct-2018 06:22:59 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[17-Oct-2018 06:22:59 UTC] DATA: domain=&regex=stonesive.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[17-Oct-2018 06:22:59 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[17-Oct-2018 06:22:59 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","data":[{"suspended_login":0,"suspended_incoming":0,"login":"ibrahim@stonesive.com","email":"ibrahim@stonesive.com"},{"suspended_login":0,"login":"info@stonesive.com","email":"info@stonesive.com","suspended_incoming":0}],"apiversion":2,"event":{"result":1},"func":"listpops"}}
+
+[17-Oct-2018 06:22:59 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[17-Oct-2018 06:22:59 UTC] DATA: domain=stonesive.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[17-Oct-2018 06:22:59 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[17-Oct-2018 06:23:00 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","event":{"result":1},"data":[],"func":"listforwards","apiversion":2}}
+
+[17-Oct-2018 10:48:18 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[17-Oct-2018 10:48:18 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[17-Oct-2018 10:48:18 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[17-Oct-2018 10:48:18 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listpops","module":"Email","event":{"result":1},"data":[{"login":"ebruaykut@renklirotalar.com","email":"ebruaykut@renklirotalar.com","suspended_login":0,"suspended_incoming":0}],"apiversion":2}}
+
+[17-Oct-2018 10:48:18 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[17-Oct-2018 10:48:18 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[17-Oct-2018 10:48:18 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[17-Oct-2018 10:48:19 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"module":"Email","data":[],"func":"listforwards","apiversion":2}}
+
+[17-Oct-2018 17:58:38 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[17-Oct-2018 17:58:38 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[17-Oct-2018 17:58:38 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[17-Oct-2018 17:58:38 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"func":"listpops","data":[{"suspended_incoming":0,"login":"ebruaykut@renklirotalar.com","suspended_login":0,"email":"ebruaykut@renklirotalar.com"}],"module":"Email","event":{"result":1}}}
+
+[17-Oct-2018 17:58:38 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[17-Oct-2018 17:58:38 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[17-Oct-2018 17:58:38 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[17-Oct-2018 17:58:39 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"module":"Email","func":"listforwards","data":[],"event":{"result":1}}}
+
+[18-Oct-2018 07:28:52 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[18-Oct-2018 07:28:52 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[18-Oct-2018 07:28:52 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[18-Oct-2018 07:28:52 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"data":[{"suspended_incoming":0,"suspended_login":0,"login":"ebruaykut@renklirotalar.com","email":"ebruaykut@renklirotalar.com"}],"event":{"result":1},"func":"listpops","module":"Email"}}
+
+[18-Oct-2018 07:28:52 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[18-Oct-2018 07:28:52 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[18-Oct-2018 07:28:52 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[18-Oct-2018 07:28:53 UTC] RESPONSE:
+ {"cpanelresult":{"func":"listforwards","apiversion":2,"event":{"result":1},"data":[],"module":"Email"}}
+
+[19-Oct-2018 06:38:48 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[19-Oct-2018 06:38:48 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[19-Oct-2018 06:38:48 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[19-Oct-2018 06:38:49 UTC] RESPONSE:
+ {"cpanelresult":{"event":{"result":1},"func":"listpops","module":"Email","data":[{"suspended_login":0,"email":"ebruaykut@renklirotalar.com","login":"ebruaykut@renklirotalar.com","suspended_incoming":0}],"apiversion":2}}
+
+[19-Oct-2018 06:38:50 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[19-Oct-2018 06:38:50 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[19-Oct-2018 06:38:50 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[19-Oct-2018 06:38:50 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"data":[],"event":{"result":1},"module":"Email","func":"listforwards"}}
+
+[21-Oct-2018 20:23:40 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[21-Oct-2018 20:23:40 UTC] DATA: domain=&regex=merkadenetim.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[21-Oct-2018 20:23:40 UTC] Authentication Header: Authorization: Basic bWVya2FkZW5ldGltOkw4eVUxejFlcjU=
+
+
+[21-Oct-2018 20:23:40 UTC] RESPONSE:
+ {"cpanelresult":{"apiversion":2,"event":{"result":1},"func":"listpops","module":"Email","data":[{"email":"emrebicer@merkadenetim.com","login":"emrebicer@merkadenetim.com","suspended_incoming":0,"suspended_login":0},{"email":"info@merkadenetim.com","login":"info@merkadenetim.com","suspended_login":0,"suspended_incoming":0},{"login":"m.ozdurak@merkadenetim.com","email":"m.ozdurak@merkadenetim.com","suspended_incoming":0,"suspended_login":0},{"suspended_login":0,"suspended_incoming":0,"login":"n.kandemir@merkadenetim.com","email":"n.kandemir@merkadenetim.com"}]}}
+
+[21-Oct-2018 20:23:40 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[21-Oct-2018 20:23:40 UTC] DATA: domain=merkadenetim.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[21-Oct-2018 20:23:40 UTC] Authentication Header: Authorization: Basic bWVya2FkZW5ldGltOkw4eVUxejFlcjU=
+
+
+[21-Oct-2018 20:23:40 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","data":[],"event":{"result":1},"apiversion":2,"func":"listforwards"}}
+
+[21-Oct-2018 20:24:47 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[21-Oct-2018 20:24:47 UTC] DATA: domain=&regex=renklirotalar.com&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listpops&cpanel_jsonapi_apiversion=2
+[21-Oct-2018 20:24:47 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[21-Oct-2018 20:24:47 UTC] RESPONSE:
+ {"cpanelresult":{"data":[{"email":"ebruaykut@renklirotalar.com","suspended_login":0,"suspended_incoming":0,"login":"ebruaykut@renklirotalar.com"}],"apiversion":2,"func":"listpops","module":"Email","event":{"result":1}}}
+
+[21-Oct-2018 20:24:48 UTC] URL: https://pro05.ni.net.tr:2083/json-api/cpanel
+[21-Oct-2018 20:24:48 UTC] DATA: domain=renklirotalar.com&regex=&cpanel_jsonapi_user=stonesiv&cpanel_jsonapi_module=Email&cpanel_jsonapi_func=listforwards&cpanel_jsonapi_apiversion=2
+[21-Oct-2018 20:24:48 UTC] Authentication Header: Authorization: Basic c3RvbmVzaXY6MXQ0dm1QRzhvOA==
+
+
+[21-Oct-2018 20:24:48 UTC] RESPONSE:
+ {"cpanelresult":{"module":"Email","event":{"result":1},"apiversion":2,"func":"listforwards","data":[]}}
+

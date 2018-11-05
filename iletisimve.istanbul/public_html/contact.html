@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<!--  This site was created in Webflow. http://www.webflow.com -->
+<!--  Last Published: Mon Jan 02 2017 18:16:43 GMT+0000 (UTC)  data-wf-page="586a9535000960f512d2b9da" data-wf-site="586a9535000960f512d2b9d4" -->
+<html >
+<head>
+  <meta charset="utf-8">
+  <title>Dijital.İletisimve.İstanbul</title>
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <meta content="Webflow" name="generator">
+  <link href="css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="css/webflow.css" rel="stylesheet" type="text/css">
+  <link href="css/iletisimve-istanbul-main.webflow.css" rel="stylesheet" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
+  <script type="text/javascript">
+    WebFont.load({
+      google: {
+        families: ["Open Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic","Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic"]
+      }
+    });
+  </script>
+  <script src="js/modernizr.js" type="text/javascript"></script>
+  <link href="http://iletisimve.istanbul/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link href="http://iletisimve.istanbul/images/IVEistanbul.png" rel="apple-touch-icon">
+</head>
+<body>
+  <div class="contact-page hero">
+    <div class="nav w-nav" data-animation="default" data-collapse="medium" data-contain="1" data-duration="400">
+      <div class="w-container">
+        <a class="logo w-nav-brand" href="#">
+          <div>İLETİŞİMVE.İSTANBUL</div>
+        </a>
+        <nav class="nav-menu w-nav-menu" role="navigation">
+            <a class="nav-link w-nav-link" href="index.html">Anasayfa</a>
+            <a class="nav-link w-nav-link" href="about.html">Hakkında</a>
+            <a class="nav-link w-nav-link" href="index.php">Yönetim</a>
+            <a class="nav-link w-nav-link" href="contact.html">İletişim</a>
+        </nav>
+        <div class="menu-button w-nav-button">
+          <div class="w-icon-nav-menu"></div>
+        </div>
+      </div>
+    </div>
+    <div class="heading-wrapper w-container">
+      <h1 class="main-heading">Hemen şimdi! Birlikte yapalım.</h1>
+    </div>
+  </div>
+  <div>
+    <div class="w-container">
+      <div class="form w-form">
+        <form data-name="quoteForm" id="wf-form-Quote-Form" method="post" ng-submit="postQuote()" name="quoteForm" data-direct="teklifal">
+          <label class="field" for="name">İsim</label>
+          <input class="input w-input" data-name="Name" id="name" maxlength="256" name="name" ng-model="quote.name" placeholder="isminizi giriniz" type="text">
+          <label class="field" for="email">E Posta</label>
+          <input class="input w-input" data-name="Email" id="email" maxlength="256" name="email" ng-model="quote.email" placeholder="E posta adresinizi giriniz" required="required" type="email">
+          <label class="field" for="field">Mesaj</label>
+          <textarea class="input text-area w-input" id="field" maxlength="5000" name="message" ng-model="quote.message" placeholder="Hangisi ? alan adı? hosting ? eposta? yönetimi? sosyal medya? "></textarea>
+          <input class="button submit w-button" data-wait="Lütfen bekleyin..." type="submit" value="Gönder">
+        </form>
+        <div class="success w-form-done">
+          <p class="success-message">Teşekkürler! Kısa zamanda iletişime geçeceğiz.</p>
+        </div>
+        <div class="w-form-fail">
+          <p>Amanın! form gönderirken birşeyler ters gitti</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="w-container">
+      <div class="footer-logo">İLETİŞİMVE.İSTANBUL</div>
+      <div>Powered by Webflow</div>
+    </div>
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js" type="text/javascript"></script>
+  <script src="https://cdn.jsdelivr.net/g/lodash@3.10.1(lodash.min.js+lodash.js)" type="text/javascript"></script>
+
+  <script src="js/webflow.js" type="text/javascript"></script>
+  <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
+</body>
+</html>
