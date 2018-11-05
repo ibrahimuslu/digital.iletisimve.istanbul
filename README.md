@@ -5,7 +5,7 @@ You can have different cpanel hosting providers and different accounts on those 
 
 Technology used
 1. Codeigniter 3.1.2
-2. Aauth CI plugin
+2. Aauth CI plugin https://github.com/magefly/CodeIgniter-Aauth
 3. Rest Server CI plugin
 4. Cpanel_api CI Plugin 
 5. InternetBS API CI Plugin
